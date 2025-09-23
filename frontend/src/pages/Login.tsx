@@ -106,17 +106,7 @@ const Login = () => {
               </Button>
             </form>
             
-            <div className="mt-6 text-center">
-              <p className="text-sm text-muted-foreground">
-                Demo Credentials:
-              </p>
-              <p className="text-xs text-muted-foreground mt-1">
-                Admin: admin@blinkit.com / admin123
-              </p>
-              <p className="text-xs text-muted-foreground">
-                User: john@example.com / user123
-              </p>
-            </div>
+           
             
             <div className="mt-4 text-center">
               <p className="text-sm text-muted-foreground">
